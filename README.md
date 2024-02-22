@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Hi, I'm Hitesh Kumar</h1>
-  <b>I'm a passionate developer from India.</b>
+  <b>Student at SOU | Java | Data structures and Algorithms
+</b>
 </div>
 
 <div align="center">
    
-  ✨ Learn more about me on my [portfolio](https://hiteshverse.github.io). <br>
-  💻 Find more of my projects [here](https://github.com/hiteshverse?tab=repositories). <br>
-  💌 You can reach me via email at [authreborn@gmail.com](mailto:authreborn@gmail.com).
+  ✨ Learning in Public [Website](https://hiteshverse.github.io). <br>
+  💻 Soon, I will be adding new projects [here](https://github.com/hiteshverse?tab=repositories). <br>
 </div>
 
 <div align="center">
@@ -26,21 +26,12 @@
  * @constructor
  * @param {string} languages - Hindi, English.
  * @param {string} hobbies - Anime, Music, Gaming.
- * @param {string} interests - Open Source, Java.
+ * @param {string} interests - Open Source, Java, DSA.
  */
 ```
   </div>
 </details>
 
-<details>
-  <summary>Status</summary>
-  <div>
-    <a href="#"><img src="github_stats.svg" width="340px"></a><br>
-    <a href="https://discord.com/users/901270070406299708" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/901270070406299708" width="340px">
-    </a>
-  </div>
-</details>
   </details>
   <a href="#"><img src="assets/pokeball-bottom.png" width="350px"></a>
 </div>
