@@ -24,10 +24,9 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} languages - Hindi, Gujrati, English.
+ * @param {string} languages - Hindi, English.
  * @param {string} hobbies - Anime, Music, Gaming.
- * @param {string} interests - AI, Open Source, Javascript.
- * @param {Date} birthday - 20th of Dec.
+ * @param {string} interests - Open Source, Java.
  */
 ```
   </div>
