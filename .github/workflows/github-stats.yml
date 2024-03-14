@@ -14,7 +14,8 @@ on:
 
 defaults:
   run:
-    working-directory: ${{ workspace }}/github-stats
+    working-directory: github-stats
+
 
 jobs:
   build:
